@@ -3,4 +3,4 @@ choses avec cet outil
  de versioning.
 
 Document modifié et prêt à être versionné.
-Nous travaillons sur la branche poeme
+Nous travaillons sur la branche poeme pour le moment. cette branche sera supprimée par la suite.
